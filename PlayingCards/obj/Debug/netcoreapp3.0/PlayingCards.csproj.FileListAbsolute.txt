@@ -1,0 +1,10 @@
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.exe
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.deps.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.runtimeconfig.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.runtimeconfig.dev.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\bin\Debug\netcoreapp3.0\PlayingCards.pdb
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.AssemblyInfoInputs.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.AssemblyInfo.cs
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\PlayingCards\obj\Debug\netcoreapp3.0\PlayingCards.pdb
