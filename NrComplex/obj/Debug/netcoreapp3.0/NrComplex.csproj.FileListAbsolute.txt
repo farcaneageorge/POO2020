@@ -1,0 +1,11 @@
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\bin\Debug\netcoreapp3.0\NrComplex.exe
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\bin\Debug\netcoreapp3.0\NrComplex.deps.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\bin\Debug\netcoreapp3.0\NrComplex.runtimeconfig.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\bin\Debug\netcoreapp3.0\NrComplex.runtimeconfig.dev.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\bin\Debug\netcoreapp3.0\NrComplex.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\bin\Debug\netcoreapp3.0\NrComplex.pdb
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\obj\Debug\netcoreapp3.0\NrComplex.csprojAssemblyReference.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\obj\Debug\netcoreapp3.0\NrComplex.AssemblyInfoInputs.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\obj\Debug\netcoreapp3.0\NrComplex.AssemblyInfo.cs
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\obj\Debug\netcoreapp3.0\NrComplex.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrComplex\obj\Debug\netcoreapp3.0\NrComplex.pdb
