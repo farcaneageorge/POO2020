@@ -1,0 +1,11 @@
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\bin\Debug\netcoreapp3.0\SortareNume.exe
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\bin\Debug\netcoreapp3.0\SortareNume.deps.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\bin\Debug\netcoreapp3.0\SortareNume.runtimeconfig.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\bin\Debug\netcoreapp3.0\SortareNume.runtimeconfig.dev.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\bin\Debug\netcoreapp3.0\SortareNume.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\bin\Debug\netcoreapp3.0\SortareNume.pdb
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\obj\Debug\netcoreapp3.0\SortareNume.csprojAssemblyReference.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\obj\Debug\netcoreapp3.0\SortareNume.AssemblyInfoInputs.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\obj\Debug\netcoreapp3.0\SortareNume.AssemblyInfo.cs
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\obj\Debug\netcoreapp3.0\SortareNume.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SortareNume\obj\Debug\netcoreapp3.0\SortareNume.pdb
