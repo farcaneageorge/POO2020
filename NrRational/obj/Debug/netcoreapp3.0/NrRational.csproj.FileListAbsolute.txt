@@ -1,0 +1,10 @@
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\bin\Debug\netcoreapp3.0\NrRational.exe
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\bin\Debug\netcoreapp3.0\NrRational.deps.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\bin\Debug\netcoreapp3.0\NrRational.runtimeconfig.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\bin\Debug\netcoreapp3.0\NrRational.runtimeconfig.dev.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\bin\Debug\netcoreapp3.0\NrRational.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\bin\Debug\netcoreapp3.0\NrRational.pdb
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\obj\Debug\netcoreapp3.0\NrRational.AssemblyInfoInputs.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\obj\Debug\netcoreapp3.0\NrRational.AssemblyInfo.cs
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\obj\Debug\netcoreapp3.0\NrRational.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\NrRational\obj\Debug\netcoreapp3.0\NrRational.pdb
