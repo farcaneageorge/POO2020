@@ -1,0 +1,11 @@
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\bin\Debug\netcoreapp3.0\SIzeOfFileOrFolder.exe
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\bin\Debug\netcoreapp3.0\SIzeOfFileOrFolder.deps.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\bin\Debug\netcoreapp3.0\SIzeOfFileOrFolder.runtimeconfig.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\bin\Debug\netcoreapp3.0\SIzeOfFileOrFolder.runtimeconfig.dev.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\bin\Debug\netcoreapp3.0\SIzeOfFileOrFolder.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\bin\Debug\netcoreapp3.0\SIzeOfFileOrFolder.pdb
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\obj\Debug\netcoreapp3.0\SIzeOfFileOrFolder.csprojAssemblyReference.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\obj\Debug\netcoreapp3.0\SIzeOfFileOrFolder.AssemblyInfoInputs.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\obj\Debug\netcoreapp3.0\SIzeOfFileOrFolder.AssemblyInfo.cs
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\obj\Debug\netcoreapp3.0\SIzeOfFileOrFolder.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\SIzeOfFileOrFolder\obj\Debug\netcoreapp3.0\SIzeOfFileOrFolder.pdb
