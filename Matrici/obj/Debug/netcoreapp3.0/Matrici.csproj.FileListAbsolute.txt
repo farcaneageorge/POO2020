@@ -1,0 +1,11 @@
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\bin\Debug\netcoreapp3.0\Matrici.exe
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\bin\Debug\netcoreapp3.0\Matrici.deps.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\bin\Debug\netcoreapp3.0\Matrici.runtimeconfig.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\bin\Debug\netcoreapp3.0\Matrici.runtimeconfig.dev.json
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\bin\Debug\netcoreapp3.0\Matrici.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\bin\Debug\netcoreapp3.0\Matrici.pdb
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\obj\Debug\netcoreapp3.0\Matrici.csprojAssemblyReference.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\obj\Debug\netcoreapp3.0\Matrici.AssemblyInfoInputs.cache
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\obj\Debug\netcoreapp3.0\Matrici.AssemblyInfo.cs
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\obj\Debug\netcoreapp3.0\Matrici.dll
+D:\Facultate Informatica 2019\ANU I\Sem 2\OOP\Matrici\obj\Debug\netcoreapp3.0\Matrici.pdb
