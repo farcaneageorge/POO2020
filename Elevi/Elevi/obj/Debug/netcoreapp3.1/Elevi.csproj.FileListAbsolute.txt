@@ -1,0 +1,3 @@
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\Elevi\Elevi\obj\Debug\netcoreapp3.1\Elevi.csprojAssemblyReference.cache
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\Elevi\Elevi\obj\Debug\netcoreapp3.1\Elevi.AssemblyInfoInputs.cache
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\Elevi\Elevi\obj\Debug\netcoreapp3.1\Elevi.AssemblyInfo.cs
