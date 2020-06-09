@@ -1,0 +1,11 @@
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\bin\Debug\netcoreapp3.1\PublisherAndSubscribers.exe
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\bin\Debug\netcoreapp3.1\PublisherAndSubscribers.deps.json
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\bin\Debug\netcoreapp3.1\PublisherAndSubscribers.runtimeconfig.json
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\bin\Debug\netcoreapp3.1\PublisherAndSubscribers.runtimeconfig.dev.json
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\bin\Debug\netcoreapp3.1\PublisherAndSubscribers.dll
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\bin\Debug\netcoreapp3.1\PublisherAndSubscribers.pdb
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\obj\Debug\netcoreapp3.1\PublisherAndSubscribers.csprojAssemblyReference.cache
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\obj\Debug\netcoreapp3.1\PublisherAndSubscribers.AssemblyInfoInputs.cache
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\obj\Debug\netcoreapp3.1\PublisherAndSubscribers.AssemblyInfo.cs
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\obj\Debug\netcoreapp3.1\PublisherAndSubscribers.dll
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\PublisherAndSubscribers\PublisherAndSubscribers\obj\Debug\netcoreapp3.1\PublisherAndSubscribers.pdb
