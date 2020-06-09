@@ -1,0 +1,11 @@
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\bin\Debug\netcoreapp3.1\BigNum.exe
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\bin\Debug\netcoreapp3.1\BigNum.deps.json
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\bin\Debug\netcoreapp3.1\BigNum.runtimeconfig.json
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\bin\Debug\netcoreapp3.1\BigNum.runtimeconfig.dev.json
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\bin\Debug\netcoreapp3.1\BigNum.dll
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\bin\Debug\netcoreapp3.1\BigNum.pdb
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\obj\Debug\netcoreapp3.1\BigNum.csprojAssemblyReference.cache
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\obj\Debug\netcoreapp3.1\BigNum.AssemblyInfoInputs.cache
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\obj\Debug\netcoreapp3.1\BigNum.AssemblyInfo.cs
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\obj\Debug\netcoreapp3.1\BigNum.dll
+D:\Razvan\Facultate Informatica 2019\ANU I\SEM 2\OOP\BigNum\BigNum\obj\Debug\netcoreapp3.1\BigNum.pdb
